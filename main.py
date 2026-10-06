@@ -1,5 +1,4 @@
 import math
-import pyautogui
 
 def addtwonums(number1, number2):
     return number1 + number
