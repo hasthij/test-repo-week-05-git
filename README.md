@@ -1,8 +1,0 @@
-﻿# test-repo-week-05-git
-# update message
-# changed?
-
-test message
-
-
-New Changeste
